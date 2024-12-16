@@ -1,0 +1,25 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/25.0.2 Chrome/128.0.6613.186 Electron/32.2.5 Safari/537.36" version="25.0.2">
+  <diagram name="第 1 页" id="jysJhN506DtzlpW-C-dF">
+    <mxGraphModel dx="1222" dy="1758" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="g-DJEF4qP4rrPidkLeyy-1" value="" style="rounded=1;whiteSpace=wrap;html=1;glass=0;gradientDirection=east;sketch=1;curveFitting=1;jiggle=2;arcSize=16;" parent="1" vertex="1">
+          <mxGeometry x="50" y="-50" width="500" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="r3OD1vOebsEYeNhIeTLA-1" value="&lt;div style=&quot;line-height: 140%;&quot;&gt;&lt;font style=&quot;font-size: 16px; line-height: 140%;&quot; face=&quot;Comic Sans MS&quot;&gt;Input N:&lt;/font&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 16px; line-height: 140%;&quot; face=&quot;Comic Sans MS&quot;&gt;N = 100 a + 10 b + c&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="85" y="50" width="170" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="r3OD1vOebsEYeNhIeTLA-2" value="&lt;font style=&quot;font-size: 16px; line-height: 140%;&quot; face=&quot;Comic Sans MS&quot;&gt;n_acb = 100a + 10c + b&lt;/font&gt;&lt;div style=&quot;line-height: 140%;&quot;&gt;&lt;font style=&quot;font-size: 16px; line-height: 140%;&quot; face=&quot;Comic Sans MS&quot;&gt;n_bac = 100b + 10a + c&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 140%;&quot;&gt;&lt;font style=&quot;font-size: 16px; line-height: 140%;&quot; face=&quot;Comic Sans MS&quot;&gt;n_bca = 100b + 10c + a&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 140%;&quot;&gt;&lt;font style=&quot;font-size: 16px; line-height: 140%;&quot; face=&quot;Comic Sans MS&quot;&gt;n_cab = 100c + 10a + b&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 140%;&quot;&gt;&lt;font style=&quot;font-size: 16px; line-height: 140%;&quot; face=&quot;Comic Sans MS&quot;&gt;n_cba = 100c + 10b + a&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="300" y="-20" width="210" height="135" as="geometry" />
+        </mxCell>
+        <mxCell id="r3OD1vOebsEYeNhIeTLA-3" value="&lt;font style=&quot;font-size: 16px; line-height: 140%;&quot; face=&quot;Comic Sans MS&quot;&gt;Sum = n_acb + n_bac + n_bca + n_cab + n_cba&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;= 122 a + 212 b + 221 c&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;div style=&quot;line-height: 140%;&quot;&gt;&lt;font style=&quot;font-size: 16px; line-height: 140%;&quot; face=&quot;Comic Sans MS&quot;&gt;= &lt;b&gt;222(a + b + c) - N&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="85" y="150" width="425" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="r3OD1vOebsEYeNhIeTLA-4" value="&lt;h1&gt;&lt;font face=&quot;Comic Sans MS&quot; style=&quot;line-height: 150%; font-size: 20px;&quot;&gt;What happened?&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="75" y="-20" width="190" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

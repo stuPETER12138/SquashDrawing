@@ -1,0 +1,25 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/25.0.2 Chrome/128.0.6613.186 Electron/32.2.5 Safari/537.36" version="25.0.2">
+  <diagram name="第 1 页" id="6H6hHHfsWQ_Qa5RrY6JU">
+    <mxGraphModel dx="-740" dy="1154" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="zWvf04sq5NhyzBeV3REH-2" value="" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="1330" y="-630" width="2370" height="935" as="geometry" />
+        </mxCell>
+        <mxCell id="zWvf04sq5NhyzBeV3REH-3" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 16px;&quot;&gt;随机生成迷宫&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="2180" y="-448" width="140" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="zWvf04sq5NhyzBeV3REH-4" value="键盘控制" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="2197.5" y="-380" width="105" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zWvf04sq5NhyzBeV3REH-5" value="UI清晰" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="2190" y="-240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zWvf04sq5NhyzBeV3REH-6" value="自动刷新" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="2190" y="-320" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
